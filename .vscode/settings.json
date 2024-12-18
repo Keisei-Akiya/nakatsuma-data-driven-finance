@@ -4,11 +4,14 @@
     "dataframe",
     "datareader",
     "dmatrices",
+    "fastparquet",
     "nakatsuma",
     "numpyro",
+    "openpyxl",
+    "pyarrow",
     "scatterplot",
     "scikit",
-    "TOPIX",
-    "topix"
+    "topix",
+    "TOPIX"
   ]
 }
